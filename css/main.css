@@ -6,13 +6,27 @@ body {
   background-size: cover;
 }
 
+.logout {
+  width: 70px;
+  background: rgba(0,0,0,0.4);
+  padding: 0px 10px;
+  text-align: center;
+  margin: 10px;
+}
+
+.logout input {
+  background: none;
+  color: white;
+  border: none;
+  font-family: 'Century Gothic', sans-serif;
+}
+
 .box {
   width: 450px;
   background: rgba(0,0,0,0.4);
   padding: 30px;
   text-align: center;
   margin: 5% auto;
-
   color: white;
   font-family: 'Century Gothic', sans-serif;
 }
